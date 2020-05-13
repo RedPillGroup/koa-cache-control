@@ -1,17 +1,17 @@
-# quidol-koa-cache-control
+# koa-cache-control
 html cache control for koajs
 
 ## Install
 
 ```
-  yarn add @redpill-paris/quidol-koa-cache-control
+  yarn add @redpill-paris/koa-cache-control
 ```
 
 ## Configuration
 
 ### Koa
 ```javascript
-const controlCache = require('@redpill-paris/quidol-koa-cache-control');
+const controlCache = require('@redpill-paris/koa-cache-control');
 
 app.use(cacheControl([
     'no-cache'
