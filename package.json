@@ -1,0 +1,13 @@
+{
+  "name": "@redpill-paris/koa-cache-control",
+  "version": "1.0.2",
+  "description": "Quidol package for cache control on koa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bilel@hicsuntdev.com",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {}
+}
