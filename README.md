@@ -11,7 +11,7 @@ html cache control for koajs
 
 ### Koa
 ```javascript
-const controlCache = require('@redpill-paris/koa-cache-control');
+const cacheControl = require('@redpill-paris/koa-cache-control');
 
 app.use(cacheControl([
     'no-cache'
